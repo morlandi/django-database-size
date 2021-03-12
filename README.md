@@ -5,6 +5,12 @@ django-database-size
 
 Adds a page to Django admin that lists the size of all tables in the database.
 
+See also ...
+------------
+
+[How to determine the size of PostgreSQL databases and tables](https://www.a2hosting.com/kb/developer-corner/postgresql/determining-the-size-of-postgresql-databases-and-tables)
+
+
 Installation
 ------------
 
